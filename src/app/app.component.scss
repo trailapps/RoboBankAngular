@@ -1,0 +1,31 @@
+header {
+  background: #7700ff;
+  .logo {
+    font-weight: bold;
+  }
+}
+
+.mat-sort-header-container {
+  align-items: center;
+}
+
+/* Structure */
+table {
+  width: 80%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.filter-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.filter-full-width {
+  width: 100%;
+}
